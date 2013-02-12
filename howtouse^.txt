@@ -1,0 +1,4 @@
+right click references in project, add reference, find the dll
+put "using BeckhamRecordKeeper;" in import statements
+create new objects with this form AccountInfo (name) = new AccountInfo(string, string, int), cannot create anything empty
+call objects to modify or print with (name).FirstName, SecondName, or AccountNumber with no parenthesis
